@@ -102,3 +102,4 @@ Cambiar `SEED` en el script genera una realización distinta con los mismos efec
 
 ![arandano](images.webp)
 
+<img src="images.webp" alt="arandano foto" width="100"> 
