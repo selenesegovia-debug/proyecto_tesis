@@ -99,3 +99,6 @@ python scripts/simular_datos.py   # regenera data/*.csv (semilla fija)
 ```
 
 Cambiar `SEED` en el script genera una realización distinta con los mismos efectos programados.
+
+![arandano](images.webp)
+
