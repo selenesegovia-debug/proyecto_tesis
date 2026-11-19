@@ -1,0 +1,19 @@
+caja_id,cultivar,tratamiento,repeticion,huerto_origen,tanda_fumigacion,fecha_fumigacion,camara_AC,posicion_camara_AC,orden_evaluacion,masa_caja_kg,n_clamshells_caja
+C01,Sekoya Grande,Testigo,1,Volcan Sauerburger,T1,2027-01-18,AC1,14,15,1.5,12
+C02,Sekoya Grande,Testigo,2,Volcan Sauerburger,T1,2027-01-18,AC1,16,2,1.5,12
+C03,Sekoya Grande,Testigo,3,Volcan Sauerburger,T1,2027-01-18,AC1,12,9,1.5,12
+C04,Sekoya Grande,BM origen,1,Volcan Sauerburger,T2,2026-12-13,AC1,11,13,1.5,12
+C05,Sekoya Grande,BM origen,2,Volcan Sauerburger,T2,2026-12-13,AC1,10,1,1.5,12
+C06,Sekoya Grande,BM origen,3,Volcan Sauerburger,T2,2026-12-13,AC1,7,14,1.5,12
+C07,Sekoya Grande,BM destino,1,Volcan Sauerburger,T3,2027-01-18,AC1,3,12,1.5,12
+C08,Sekoya Grande,BM destino,2,Volcan Sauerburger,T3,2027-01-18,AC1,18,17,1.5,12
+C09,Sekoya Grande,BM destino,3,Volcan Sauerburger,T3,2027-01-18,AC1,9,6,1.5,12
+C10,Luna,Testigo,1,"Nancul, Villarrica",T4,2027-01-18,AC1,4,11,1.5,12
+C11,Luna,Testigo,2,"Nancul, Villarrica",T4,2027-01-18,AC1,17,3,1.5,12
+C12,Luna,Testigo,3,"Nancul, Villarrica",T4,2027-01-18,AC1,8,5,1.5,12
+C13,Luna,BM origen,1,"Nancul, Villarrica",T5,2026-12-13,AC1,13,16,1.5,12
+C14,Luna,BM origen,2,"Nancul, Villarrica",T5,2026-12-13,AC1,2,8,1.5,12
+C15,Luna,BM origen,3,"Nancul, Villarrica",T5,2026-12-13,AC1,15,4,1.5,12
+C16,Luna,BM destino,1,"Nancul, Villarrica",T6,2027-01-18,AC1,5,7,1.5,12
+C17,Luna,BM destino,2,"Nancul, Villarrica",T6,2027-01-18,AC1,1,18,1.5,12
+C18,Luna,BM destino,3,"Nancul, Villarrica",T6,2027-01-18,AC1,6,10,1.5,12

@@ -1,0 +1,7 @@
+tanda_id,cultivar,tratamiento,fecha,hora_inicio,duracion_h,conc_BM_objetivo_g_m3,conc_BM_medida_g_m3,temp_min_C,temp_max_C
+T1,Sekoya Grande,Testigo,2027-01-18,10:30,3.0,0.0,0.0,6.0,9.5
+T2,Sekoya Grande,BM origen,2026-12-13,08:00,3.0,64.0,61.5,4.7,7.2
+T3,Sekoya Grande,BM destino,2027-01-18,13:45,3.0,64.0,64.7,5.1,7.9
+T4,Luna,Testigo,2027-01-18,14:45,3.0,0.0,0.0,5.5,8.5
+T5,Luna,BM origen,2026-12-13,09:15,3.0,64.0,64.8,5.0,7.7
+T6,Luna,BM destino,2027-01-18,12:45,3.0,64.0,64.2,5.8,8.8
