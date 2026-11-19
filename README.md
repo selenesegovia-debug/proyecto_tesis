@@ -1,7 +1,6 @@
 # Datos simulados – Tesis: postcosecha de arándanos con bromuro de metilo y atmósfera controlada
 
-> ⚠️ **Todos los datos de este repositorio son SIMULADOS.** No son mediciones reales ni deben citarse
-> como resultados. Sirven para practicar el flujo de trabajo (limpieza, ANOVA, modelos mixtos, GLMM,
+> ⚠️ **Todos los datos de este repositorio son SIMULADOS.** No son mediciones reales. Sirven para practicar el flujo de trabajo (limpieza, ANOVA, modelos mixtos, GLMM,
 > control de versiones en GitHub) antes de tener los datos reales.
 
 Basado en el *Proyecto de Tesis* de Selene Segovia Gregoratti (Universidad de Chile, 2026).
